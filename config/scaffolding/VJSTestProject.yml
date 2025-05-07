@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: VJSTestProject
+  gitServerName: Rakesh_GitAccount
+  gitUrl: https://github.com/Rakeshkumards1997
+  gitUsername: Rakeshkumards1997
+  gitBranch: main
